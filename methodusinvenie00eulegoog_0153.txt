@@ -1,0 +1,44 @@
+'146 vaurts maraon] ,
+
+nr , exea utraque quantitas A ac Β incrementum accipiet, unai'
+quaque scilicet augebitur valore differentiali ex praecedentibus
+definiendo. Sit igitur d A valor ditiirentialis ipsius A, qui tes·
+ponder formula integrali s Z dx, posito x τ·- a, similique mo·
+do fit ΑΒ valor differentialis ipfius B oriundus ex formula s Υ dx,
+pofito x == a. Cum ergo, ex adjecta particula nr variabili
+y, abeatAitt A÷ uA, δι Β in B÷dB, productum AB
+transmutabitur in A13÷Aa13 ÷13aA -l- aad& quare ,
+tum AB effe debeat maximum vel minimum, oportebit else
+AB τ..- ΑΒ ÷Aass -i-BdA -Ι- dAdB. Ideoque o ==
+A d B -l- BdA, ob evanescentem terminum dAdB prat reli·
+quis. Ex his itaque oritur sequens Problematis solutior Qua·
+ratur formula [ΖΛ x valor differentialis qui fit uA , fitque Α
+valor sormulaesde‚ quem obtinet pofito arza. Deinde
+quaeratur formulae [Υ dx valor differentialis, qui fit dB„acB
+denotet valorem tornata sde‚ quem recipit posrto x :aa
+quibus fartis habebitur ista aquatio 0 --,--·· A a B ÷13aA, iq
+qua relatio satisfaciens inter rr &y continebitur. Qu. l.
+
+conotn i
+
+ις. Qtanquam in aquatione 0= A d Β -l- Β dA insunt
+quantitates conslantes A δι Β, tamen eae non sunt arbitrariae3
+sed utraque peripsam hant aquationem delinietur. Scilicet si
+
+ex hac aequatione eliciantur valores s Z dx δι s Y dx, ponatur
+que x = a, prodire debent illae quantitates-A δι Ba unde ha
+
+determinabuntur per a, dt per reliquas constantes arbitrarier
+. quae per integrationem ingredientur.
+
+Couotull
+
+16. Si Z &Y fiterint ¹ functiones determinatae quantitatum
+x, y, p, q, r, dcc. tum valores differentiales d A dt d Β non
+pendebunt abar interim tamen quantitas a ingreditur inaequa-
+tionem 0 = AdB÷ BdA: etr quo curva inventa, tantum
+
+pro definito abscissa κ valore rr za. questro satisfaciet. Co.
+
+ 
+

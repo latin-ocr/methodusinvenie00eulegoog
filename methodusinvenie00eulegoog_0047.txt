@@ -1,0 +1,43 @@
+40 nannenononra.nr nrm .
+
+igitur lineam retiam cum ipso axe congruentem, pro qua erit
+y: 0. *Pro hac itaque valor formulae s ( arr- yy ) y dx fiet pa·
+riter =0, ·pr0 'Parabola autem idem vator erir affirmativus,
+ideoque> ος ex quo ‚sequitur in ‚Parabola formulae propofirae
+valorem non etse minimum, sed maximum. Poterimus autem
+aigebraice indicare quantus futurus srt valor formulae proposrtae
+pro Parabolar cum enim s1r yy=41x ,abibit formula propost-
+ta in hanc s}aexdx maxa-,ifnr‘wam Qrod fi autem
+ponamus aliam aequationem, puta y=nx; abibit frgrmula
+proposita in hanc sd.r(naxx-- n³x³ )=¹, ω’ -2n’x⁴,
+qua semper est minor quam valor formula: qui pro Parabola
+· inventa prodiit: id quod quilibetfacilt , substituendis locox
+definitis ‚valoribus , experietur.
+
+ΕκεκηυΜΗΙ.ΑΙ
+
+18. invenire curvam, in qua fir, inter amnes onmr'no curvas aa
+eandem abscifflrm relatas, valor bujusfarmulas(15a²x²y-15a'xy
+÷ sa²y³ —3y⁵ ) dx maximus vel minimus.
+
+Erit igitur Z == 3151²x²y·-- 151³xy÷ 51¹7‘ ·- 37⁵ , qui fi
+differentietur, pofitoa'c constante, prodibit N d y=r 5ae²x⁸ d y
+— r5ae³xdy÷15ae²y²dy- r5y⁴dyr hincque N = ΜΝ
+···.⁴’ x÷ae²y⁸-—y⁴); qui valor, pofitus = 0 ,dabit aequatio-
+nem pro curva quaesita: erit itaque aaexx—a'x÷ae²y² -y*
+:0=(ax-yy )(ax÷yy-u). Ob binos hos faetores,
+prodeunt binae cnmae satisfacientes, quarum altera exprimetur
+hacdquatione y zare, altera hae yy :aa—axe utraque.
+pro Paraboia. t nunc appareaturra fit pro maximo vei mini
+m0, ponamus absciffam eiie minimam, ac prior aequatioyy=ax ’
+informarit substituta dabit s -— roa³xtdx ,l ax. Altera vero for·
+mula yy z aa -—- ax, seu yma, substituta dabit saa⁵dx. Quod
+fi autem ipsr y alius quicunque valor tribuatur, puta y= 0 3
+tum formula proposita abir in so dx zo. Ex quo patet cur·
+narum inventarum aiteram yy=aea-- axeffe pro maximo, al·
+
+teram autem yyzasr pro minimo, scilicet pro martimo nega·
+“ tire.
+
+ 
+
